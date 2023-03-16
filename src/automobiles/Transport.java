@@ -38,7 +38,7 @@ public abstract class Transport
             if(isReady)
                 System.out.println("Двигатель исправен");
             else
-                System.out.println("Нет, двигатель не работает. Он проехал уже " + km + "км");
+                System.out.println("Двигатель не работает. Он проехал уже " + km + "км");
         }
     }
 }

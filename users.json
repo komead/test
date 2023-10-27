@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "gender": "Female"
+    },
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": "4",
+      "name": "Alice Brown",
+      "email": "alice@example.com",
+      "gender": "Female"
+    },
+    {
+      "id": "5",
+      "name": "Michael Davis",
+      "email": "michael@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": "6",
+      "name": "Emily Wilson",
+      "email": "emily@example.com",
+      "gender": "Female"
+    },
+    {
+      "id": "7",
+      "name": "David Lee",
+      "email": "david@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": "8",
+      "name": "Olivia Taylor",
+      "email": "olivia@example.com",
+      "gender": "Female"
+    },
+    {
+      "id": "9",
+      "name": "Daniel Brown",
+      "email": "daniel@example.com",
+      "gender": "Male"
+    },
+    {
+      "id": "10",
+      "name": "Sophia Anderson",
+      "email": "sophia@example.com",
+      "gender": "Female"
+    }
+  ]
+}
